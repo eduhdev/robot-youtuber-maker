@@ -1,0 +1,11 @@
+{
+  "name": "robot-youtuber-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dudurai/robot-youtuber-maker.git",
+  "author": "EduhDev <eduardocarvalho970@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}

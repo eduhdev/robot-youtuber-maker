@@ -1,2 +1,2 @@
 # robot-youtuber-maker
-Project to make automatic youtube movies
+Project to make automatic youtube movies upload

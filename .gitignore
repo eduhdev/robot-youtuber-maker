@@ -62,3 +62,5 @@ typings/
 
 #credentials Api
 credentials/*
+
+content.json
